@@ -1,16 +1,37 @@
-## Hi there 👋
+# ✦ Hey, I'm Mario!
 
-<!--
-**Marioleee/Marioleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⌜ 💻 Developer & Tech Enthusiast ⌟
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **About Me**
+- 💻 Passionate about web development & technology
+- 🚀 Creating projects and turning ideas into reality
+- 📚 Always learning and improving my skills
+- 🇪🇸 Based in Spain
+
+━━━━━━━━━━━━━━━━━━━━
+
+### ⌜ 🛠️ Tech Stack ⌟
+
+`HTML` · `CSS` · `JavaScript` · `Git` · `GitHub`
+
+━━━━━━━━━━━━━━━━━━━━
+
+### ⌜ 📊 Currently ⌟
+
+- 🔭 Working on personal projects
+- 🌱 Improving my coding skills
+- 🎯 Exploring new technologies
+
+━━━━━━━━━━━━━━━━━━━━
+
+### ⌜ 🌌 Quote ⌟
+
+*"Dream it. Code it. Build it."*
+
+━━━━━━━━━━━━━━━━━━━━
+
+<p align="center">
+  ✦ Thanks for visiting my profile ✦
+</p>
