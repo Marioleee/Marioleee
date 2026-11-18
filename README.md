@@ -5,6 +5,7 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 🌐 **About Me**
+
 - 💻 Software Developer & Systems Engineer
 - ⚙️ Specialized in designing, developing, and optimizing computer systems
 - 🚀 Creating innovative software solutions and efficient technological projects
@@ -16,7 +17,13 @@
 
 ### ⌜ 🛠️ Tech Stack ⌟
 
-`HTML` · `CSS` · `JavaScript` · `Git` · `GitHub` · `Windows` · `Linux`
+
+
+
+
+
+\
+
 
 ━━━━━━━━━━━━━━━━━━━━
 
@@ -36,6 +43,4 @@
 
 ━━━━━━━━━━━━━━━━━━━━
 
-<p align="center">
-  ✦ Thanks for visiting my profile ✦
-</p>
+\<p align="center">   ✦ Thanks for visiting my profile ✦ \</p>
