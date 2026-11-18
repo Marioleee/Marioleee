@@ -1,34 +1,38 @@
 # ✦ Hey, I'm Mario!
 
-### ⌜ 💻 Developer & Tech Enthusiast ⌟
+### ⌜ 💻 Software Developer & Systems Engineer ⌟
 
 ━━━━━━━━━━━━━━━━━━━━
 
 🌐 **About Me**
-- 💻 Passionate about web development & technology
-- 🚀 Creating projects and turning ideas into reality
-- 📚 Always learning and improving my skills
+- 💻 Software Developer & Systems Engineer
+- ⚙️ Specialized in designing, developing, and optimizing computer systems
+- 🚀 Creating innovative software solutions and efficient technological projects
+- 🖥️ Focused on software architecture, networking, and IT infrastructure
+- 📚 Continuously improving my expertise in programming and systems engineering
 - 🇪🇸 Based in Spain
 
 ━━━━━━━━━━━━━━━━━━━━
 
 ### ⌜ 🛠️ Tech Stack ⌟
 
-`HTML` · `CSS` · `JavaScript` · `Git` · `GitHub`
+`HTML` · `CSS` · `JavaScript` · `Git` · `GitHub` · `Windows` · `Linux`
 
 ━━━━━━━━━━━━━━━━━━━━
 
 ### ⌜ 📊 Currently ⌟
 
-- 🔭 Working on personal projects
-- 🌱 Improving my coding skills
-- 🎯 Exploring new technologies
+- 🔭 Developing software and working on personal projects
+- ⚙️ Designing and optimizing computer systems
+- 🌱 Expanding my knowledge in software development and systems engineering
+- 🖥️ Exploring networking, cybersecurity, and IT infrastructure
+- 🎯 Building efficient, secure, and innovative technological solutions
 
 ━━━━━━━━━━━━━━━━━━━━
 
 ### ⌜ 🌌 Quote ⌟
 
-*"Dream it. Code it. Build it."*
+*"Think it. Develop it. Engineer it."*
 
 ━━━━━━━━━━━━━━━━━━━━
 
